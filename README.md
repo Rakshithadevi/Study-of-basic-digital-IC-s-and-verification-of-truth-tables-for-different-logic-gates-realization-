@@ -87,6 +87,8 @@ xnor(y7,a,b);
 ```
 ## output:
 ## Logic symbol & Truthtable
+![image](https://user-images.githubusercontent.com/94165326/162563607-6347ac9d-c159-4312-9278-cb6e5e3a0c8d.png)
+
 
 ## RTL realization 
 
