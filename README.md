@@ -93,6 +93,7 @@ xnor(y7,a,b);
 
 
 ## RTL realization 
+![image](https://user-images.githubusercontent.com/94165326/162563681-9687195a-cee3-45ea-800e-1a9ea57b259b.png)
 
 
 
